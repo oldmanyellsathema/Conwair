@@ -3,6 +3,7 @@ tagline: "The Mason"
 description: "Reviews, field notes, and honest software for project managers who'd rather be on site than behind a screen."
 url: "https://conwair.com"
 baseurl: "/Conwair"
+future: true
 
 permalink: /blog/:title/
 
