@@ -16,9 +16,9 @@ Construction is a customer service industry. I know that makes some people's ski
 
 We need to be able to talk to owners, teach them, bring them along, without talking down to them or scaring them off. It's a tightrope.
 
-I've also spent years watching the tools in this industry fail the people using them. When I started, nobody used software for anything. Then the field got a couple of apps for time tracking and light PM stuff, and most of them were trash. Then I moved into the office and learned Procore. Really learned it. And it's also trash, just expensive trash. The guys in the field still can't use it because it's too much computer for someone standing in a ditch. But it makes everyone in the office *feel* like things are up to date. Right up until a sub asks what the latest plan is because it turns out they couldn't log in and just never said anything.
+I've also spent years watching the tools in this industry fail the people using them. When I started, nobody used software for anything. Then the field got a couple of apps for time tracking and light PM stuff, and most of them were trash. Then I moved into the office and learned some industry standard programs. Really learned them. And eveny they fall short, it just nearly there but never arives for me. The guys in the field still don't use it because it's too much computer for someone standing in a ditch. But it makes everyone in the office *feel* like things are up to date. Right up until a sub asks what the latest plan is because it turns out they couldn't log in and just never said anything.
 
-Every system in construction is either bad or borrowed from another industry. Because we're athletes and jocks and creatives. Not programmers. The tools should meet us where we are.
+Every system in construction is either cumbersome or borrowed from another industry. Because we're athletes and jocks and creatives. Not programmers. The tools should meet us where we are.
 
 ## What this is not
 
