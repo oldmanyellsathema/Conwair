@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "If It's Not in the Log, It Didn't Happen"
-date: 2026-04-03
+date: 2026-04-02
 author: The Mason
 tags: [opinion]
 excerpt_custom: "Why the daily log is the most undervalued tool on any job site, and what it's actually costing you."
