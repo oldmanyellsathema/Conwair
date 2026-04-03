@@ -1,0 +1,457 @@
+---
+# Front matter required for Jekyll to process
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+/* ========================================
+   Reset & Base
+   ======================================== */
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --parchment: #f5f0e8;
+  --parchment-dark: #ede7db;
+  --ink: #2c2720;
+  --ink-light: #3a3530;
+  --ink-muted: #7a7062;
+  --ink-faint: #9e9385;
+  --ink-ghost: #b0a898;
+  --rule: #d6cdbf;
+  --rule-light: #e8e2d8;
+  --terra: #b5704d;
+  --terra-light: #eee5d8;
+  --terra-bg: #faf7f2;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+  color: var(--ink-light);
+  background: var(--parchment);
+  line-height: 1.7;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Background arch drawings */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url('/assets/images/arches-bg.svg') no-repeat center center;
+  background-size: cover;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ========================================
+   Layout
+   ======================================== */
+
+.site-wrapper {
+  position: relative;
+  z-index: 1;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ========================================
+   Navigation
+   ======================================== */
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 0 1.25rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.logo-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.logo-icon {
+  width: 36px;
+  height: 36px;
+}
+
+.logo-icon img {
+  width: 100%;
+  height: 100%;
+}
+
+.logo-text-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo-text {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--ink-light);
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+}
+
+.logo-sub {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--ink-faint);
+  line-height: 1;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.75rem;
+  font-size: 14px;
+  list-style: none;
+}
+
+.nav-links a {
+  color: var(--ink-muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.nav-links a:hover {
+  color: var(--ink-light);
+}
+
+/* ========================================
+   Section Headers
+   ======================================== */
+
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 2.5rem 0 1.25rem;
+}
+
+.section-head span {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--ink-faint);
+  white-space: nowrap;
+}
+
+.section-line {
+  flex: 1;
+  height: 0;
+  border-top: 1px solid var(--rule);
+}
+
+/* ========================================
+   Homepage Hero
+   ======================================== */
+
+.hero {
+  padding: 3rem 0 2.5rem;
+  border-bottom: 1px solid var(--rule);
+  position: relative;
+}
+
+.hero-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--terra);
+  margin-bottom: 1.25rem;
+  font-weight: 500;
+}
+
+.hero h1 {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 1.35;
+  max-width: 520px;
+  color: var(--ink);
+}
+
+.hero-body {
+  margin-top: 1rem;
+  font-size: 15px;
+  color: var(--ink-muted);
+  line-height: 1.75;
+  max-width: 480px;
+}
+
+/* ========================================
+   Post List (Homepage)
+   ======================================== */
+
+.post-list {
+  list-style: none;
+}
+
+.post-item {
+  display: block;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--rule-light);
+  text-decoration: none;
+  color: inherit;
+  transition: padding-left 0.25s;
+}
+
+.post-item:hover {
+  padding-left: 8px;
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.post-tag {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--terra);
+  font-weight: 500;
+}
+
+.post-dot {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--rule);
+  display: inline-block;
+}
+
+.post-date {
+  font-size: 12px;
+  color: var(--ink-ghost);
+}
+
+.post-item-title {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+.post-excerpt {
+  font-size: 14px;
+  color: var(--ink-muted);
+  margin-top: 4px;
+  line-height: 1.6;
+}
+
+/* ========================================
+   Tools Section
+   ======================================== */
+
+.tool-card {
+  background: var(--terra-bg);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 12px;
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.tool-card:hover {
+  border-color: #c4b8a5;
+  background: #f7f3eb;
+}
+
+.tool-badge {
+  width: 44px;
+  height: 44px;
+  background: var(--terra-light);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.tool-badge svg {
+  width: 22px;
+  height: 22px;
+}
+
+.tool-info {
+  flex: 1;
+}
+
+.tool-name {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 15px;
+  font-weight: 400;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+
+.tool-desc {
+  font-size: 13px;
+  color: var(--ink-muted);
+  line-height: 1.6;
+}
+
+.tool-status {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--terra);
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+/* ========================================
+   Blog Post (Single)
+   ======================================== */
+
+.post-header {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.post-header-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1rem;
+}
+
+.post-header h1 {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--ink);
+  max-width: 600px;
+}
+
+.post-content {
+  padding: 2rem 0 3rem;
+}
+
+.post-content p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--ink-light);
+  margin-bottom: 1.5rem;
+  max-width: 640px;
+}
+
+.post-content h2 {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: var(--ink);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  max-width: 600px;
+}
+
+.post-content em {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-style: italic;
+}
+
+.post-content strong {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.post-content blockquote {
+  border-left: 3px solid var(--terra);
+  padding-left: 1.25rem;
+  margin: 2rem 0;
+  color: var(--ink-muted);
+  font-style: italic;
+}
+
+.post-content ul, .post-content ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+/* ========================================
+   About Section / Page
+   ======================================== */
+
+.about-section p {
+  font-size: 14px;
+  color: var(--ink-muted);
+  line-height: 1.85;
+  max-width: 520px;
+}
+
+.about-section em {
+  font-family: 'Libre Baskerville', Georgia, serif;
+  font-style: italic;
+  color: #5a5045;
+}
+
+/* ========================================
+   Footer
+   ======================================== */
+
+.site-footer {
+  border-top: 1px solid var(--rule);
+  padding: 1.25rem 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--ink-ghost);
+  margin-top: 2rem;
+}
+
+.site-footer .footer-logo {
+  font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+/* ========================================
+   Responsive
+   ======================================== */
+
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 26px;
+  }
+
+  .post-header h1 {
+    font-size: 24px;
+  }
+
+  .site-wrapper {
+    padding: 0 1rem;
+  }
+
+  .tool-card {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+}

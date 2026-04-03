@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<div class="hero">
+  <div class="hero-label">From the field</div>
+  <h1>Built things for decades. Now building tools for the people who still do.</h1>
+  <p class="hero-body">Reviews, field notes, and honest software for project managers who'd rather be on site than behind a screen.</p>
+</div>
+
+<div class="section-head">
+  <span>Latest</span>
+  <div class="section-line"></div>
+</div>
+
+<ul class="post-list">
+  {% for post in site.posts limit:10 %}
+  <li>
+    <a href="{{ post.url | relative_url }}" class="post-item">
+      <div class="post-meta">
+        {% if post.tags.first %}
+        <span class="post-tag">{{ post.tags.first }}</span>
+        <span class="post-dot"></span>
+        {% endif %}
+        <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+      </div>
+      <div class="post-item-title">{{ post.title }}</div>
+      {% if post.excerpt_custom %}
+      <div class="post-excerpt">{{ post.excerpt_custom }}</div>
+      {% elsif post.excerpt %}
+      <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</div>
+      {% endif %}
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+
+<div class="section-head">
+  <span>Tools</span>
+  <div class="section-line"></div>
+</div>
+
+<div class="tools-section">
+  <div class="tool-card">
+    <div class="tool-badge">
+      <svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="3" y="3" width="16" height="16" rx="2" stroke="#b5704d" stroke-width="1.5"/>
+        <line x1="3" y1="8" x2="19" y2="8" stroke="#b5704d" stroke-width="1"/>
+        <line x1="7" y1="12" x2="15" y2="12" stroke="#b5704d" stroke-width="0.75" opacity="0.5"/>
+        <line x1="7" y1="15" x2="13" y2="15" stroke="#b5704d" stroke-width="0.75" opacity="0.5"/>
+      </svg>
+    </div>
+    <div class="tool-info">
+      <div class="tool-name">Daily log</div>
+      <div class="tool-desc">Fast, clean daily reports. Weather, crew, equipment, notes. Takes less than three minutes. Exports a weekly summary you can send straight to the owner.</div>
+      <div class="tool-status">Coming soon</div>
+    </div>
+  </div>
+
+  <div class="tool-card">
+    <div class="tool-badge">
+      <svg viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="11" cy="11" r="8" stroke="#b5704d" stroke-width="1.5" stroke-dasharray="3,3"/>
+        <line x1="11" y1="7" x2="11" y2="15" stroke="#b5704d" stroke-width="1.5"/>
+        <line x1="7" y1="11" x2="15" y2="11" stroke="#b5704d" stroke-width="1.5"/>
+      </svg>
+    </div>
+    <div class="tool-info">
+      <div class="tool-name">More on the way</div>
+      <div class="tool-desc">Ala carte PM tools. Buy what you need. Skip what you don't.</div>
+    </div>
+  </div>
+</div>
+
+<div class="about-section">
+  <div class="section-head">
+    <span>About</span>
+    <div class="section-line"></div>
+  </div>
+  <p>Conwair is run by <em>The Mason</em>, someone with decades in construction, from laying block to running jobs. The blog is honest because the field is honest. The tools are built for how work actually happens, not how someone in a glass office imagines it does.</p>
+</div>
