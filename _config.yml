@@ -7,7 +7,6 @@ future: true
 
 permalink: /blog/:title/
 
-collections_dir: .
 markdown: kramdown
 highlighter: rouge
 
