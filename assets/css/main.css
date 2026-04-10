@@ -432,6 +432,22 @@ body::before {
 .site-footer .footer-logo {
   font-family: 'Libre Baskerville', Georgia, serif;
 }
+/* Add this inside the Footer section of main.css, after the existing .footer-logo rule */
+
+.site-footer .footer-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.site-footer .footer-links a {
+  color: var(--ink-ghost);
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.site-footer .footer-links a:hover {
+  color: var(--terra);
+}
 
 /* ========================================
    Responsive
