@@ -14,9 +14,9 @@ These are the three documents that move between owners, architects, engineers an
 
 ## Free Change Order Template
 
-COs, PCOs, OCRs, whatever your company calls them. They are all the same thing. A formal request to change a dollar amount on a contract. Sometimes they go from subs to generals, sometimes from generals to owners. If you already knew that, good.
+COs, PCOs, OCRs, (change orders, Potential change orders, owner change requests) or whatevery your company calls the equivalent. These are all a formal request to change a dollar amount on a contract. Sometimes they go from subs to generals, sometimes from generals to owners. If you already knew that, good. If you didn't don't worry aoubt it, this a place to learn.
 
-Here is why I made this free change order form. I have seen change orders show up as plain emails. I have seen them sent out of QuickBooks as estimates. The QuickBooks route is better than an email, sure, at least it is organized. But it is still inconsistent and it still looks like you threw it together in five minutes.
+Here is why I made this free change order form. I have seen change orders show up as plain emails. I have seen them sent out of QuickBooks as estimates and any number of other random formats. The QuickBooks route is better than an email, sure, at least it is organized. But it is still inconsistent and it still looks like you threw it together in five minutes.
 
 Think about it from the other side. Construction is expensive. Margins are small. Nobody wants to spend more money. Now imagine someone sends you an email asking for another 20K with no backup and no explanation. You would hate that. I would hate that. So why would you do it to someone else?
 
@@ -26,9 +26,9 @@ A change order is your chance to present a case. Not a legal brief, just a clear
 
 ## Free RFI Template
 
-Request for Information. If you did not know that is what RFI stands for, do not feel bad. I sent probably hundreds of them before I ever knew the name.
+Request for Information. If you did not know that is what RFI stands for, do not feel bad. I sent probably hundreds of them before I ever knew the formal name for it.
 
-Plans are never 100%. I have never seen a set that was. There are always going to be questions. The ones about design intent, not means and methods, should be asked in a format that makes it easy for the architect or engineer to answer and easy for you to track. A text thread is not that. An email chain with six people CC'd is not that either.
+Plans are never 100%. At least, I have never seen a set that was. There are always going to be questions. The ones about design intent, not means and methods, should be asked in a format that makes it easy for the architect or engineer to answer and easy for you to track, everyone will appreciate that, the less time the design team has to spend on an RFI the cheaper it is for everyone. A text thread is not that. An email chain with six people CC'd is not that either.
 
 A clean RFI does two things. It gets you a faster answer because the person reading it does not have to decode what you are asking. And it makes you look like someone who has done this before, which matters when you are sitting across from an architect who works with ten other contractors.
 
