@@ -8,13 +8,13 @@ dek: "Three free construction document templates. Because if you're sending thes
 excerpt: "Free downloadable change order, RFI and submittal cover sheet templates built for small contractors who want to look like they've done this before."
 ---
 
-I built three free construction document templates and I'm dropping them all at once. A [change order form](https://app.conwair.com/tools/change-order), an [RFI template](https://app.conwair.com/tools/rfi) and a [submittal cover sheet](https://app.conwair.com/tools/submittal). Upload your logo, fill out some boxes, print it out. Done.
+I built three free construction document templates and I'm dropping them all at once. A [change order form](https://app.conwair.com/tools/change-order), an [RFI template](https://app.conwair.com/tools/rfi) and a [submittal cover sheet](https://app.conwair.com/tools/submittal). Upload your logo, fill out some boxes, print it out. Done. (Note: these are in Beta, so you know, libale to change. Tell me what you like and what you hate) 
 
 These are the three documents that move between owners, architects, engineers and contractors more than anything else on a job. Each one deserves its own post and I will get to that. But for now here they are with some context on why I built them and why you should care about what yours look like.
 
 ## Free Change Order Template
 
-COs, PCOs, OCRs, (change orders, Potential change orders, owner change requests) or whatevery your company calls the equivalent. These are all a formal request to change a dollar amount on a contract. Sometimes they go from subs to generals, sometimes from generals to owners. If you already knew that, good. If you didn't don't worry aoubt it, this a place to learn.
+COs, PCOs, OCRs, (change orders, potential change orders, owner change requests) or whatevery your company calls the equivalent. These are all a formal request to change a dollar amount on a contract. Sometimes they go from subs to generals, sometimes from generals to owners. If you already knew that, good. If you didn't don't worry aoubt it, this a place to learn.
 
 Here is why I made this free change order form. I have seen change orders show up as plain emails. I have seen them sent out of QuickBooks as estimates and any number of other random formats. The QuickBooks route is better than an email, sure, at least it is organized. But it is still inconsistent and it still looks like you threw it together in five minutes.
 
