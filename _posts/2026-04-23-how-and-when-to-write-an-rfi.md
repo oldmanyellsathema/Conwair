@@ -17,7 +17,7 @@ If you're a smaller GC, RFIs can be informal enough that you don't even realize 
 
 An RFI, Request for Information, documents a condition that needs clarification and assigns responsibility for resolving it. That condition might be a discrepancy between plan sheets, an existing field condition that doesn't match the drawings, or a coordination issue between structural and architectural plans.
 
-What the RFI does is put that problem in writing, give it a timeframe for response (usually three to five days), and tie it to a specific activity, plan sheet, or budget item. That last part matters. Most RFIs have financial consequences, and who is responsible for causing a change becomes very important when the owner starts asking questions.
+What the RFI does is put that problem in writing, give it a timeframe for response (usually three to five days but check the contract, it might be 14), and tie it to a specific activity, plan sheet, or budget item. That last part matters. Most RFIs have financial consequences, and who is responsible for causing a change becomes very important when the owner starts asking questions.
 
 This is also why [keeping a daily log](/blog/if-its-not-in-the-log) matters. The log documents what happened in the field. The RFI documents who is responsible for resolving it. Together they are how you protect yourself.
 
