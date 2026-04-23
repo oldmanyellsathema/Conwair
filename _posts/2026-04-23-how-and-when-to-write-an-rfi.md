@@ -27,7 +27,7 @@ You don't need special software to write an RFI, but they should follow a consis
 
 **Start with a clear subject.** "Stairs" is not a subject. Which stairs? What about them? An RFI subject needs to tell you, and everyone who comes looking for it later, exactly what the issue is. You will search for these. Name them accordingly.
 
-**Describe the problem and its location.** This is the most important part. Think it through fully and write it as though you're explaining it to someone who has never been on a job site, never built anything and is mad you're askeing them a question, because sometimes that's exactly who's reading it. Many people who design things have never built them. That's not a complaint, it's just reality, and it means the burden of clarity is on you. To be fair often in this process you find the answer and not need to ask the RFI at all.
+**Describe the problem and its location.** This is the most important part. Think it through fully and write it as though you're explaining it to someone who has never been on a job site, never built anything and is mad you're askeing them a question, because sometimes that's exactly who's reading it. Many people who design things have never built them. That's not a complaint, it's just reality, and it means the burden of clarity is on you. To be fair often in this process you find the answer and may not need to ask the RFI at all.
 
 Include photos. A picture in this context is worth considerably more than a thousand words. Include the relevant plan sheet. Highlight the issue. Make it impossible to misunderstand.
 
@@ -35,17 +35,17 @@ Include photos. A picture in this context is worth considerably more than a thou
 
 I was laying block on a job once and we didn't have a detail for going over a window. If you've laid block you know there are only so many ways that detail goes, so I didn't ask. I just dropped two #5 bars over it, bent up some hooks, and kept moving. When the engineer showed up he asked how I knew what to do. I told him I'd been doing it for fourteen years and assumed it was like every other window I'd ever built. Wrong answer. The super and my boss got chewed out. The engineer had shown up that day with a hand-drawn SSK for exactly that window. Was I right? Yes. Did it matter? Not much. That should have been an RFI.
 
-**Assign it to someone.** That engineer should have been named as the responsible party. The super should have written it up, included the missing detail, and sent it to him. My boss could have written a change order for the extra rebar if he was feeling petty. That's how it's supposed to work.
+**Assign it to someone.** That engineer should have been named as the responsible party. The super should have written it up, included the missing detail, and sent it to him. My boss could have written a change order for the extra rebar, if he was feeling petty. That's how it's supposed to work.
 
 ## The part nobody talks about
 
 Every RFI is a quiet accusation.
 
-When you document a design oversight, you're saying the architect didn't think it all the way through. When you flag a structural issue, you're saying the engineer missed something. Now nobody's really saying that, because everyone misses things and construction is full of unknowns, but that's how it lands, and you should know it going in.
+When you document a design oversight, you're saying the architect didn't think it all the way through. When you flag a structural issue, you're saying the engineer missed something. Now nobody's really saying that, at least not where others can hear them. Everyone misses things and construction is full of unknowns, but finger pointing is how it lands, and you should know it going in.
 
-When an owner looks at a job that came in twenty percent over budget and you can point to three hundred RFIs, you look like you knew what you were doing. The architect looks like they didn't. Construction is a customer service industry. That means taking care of owners, yes, but architects send referrals too. How you write these things, how detailed, how professional, how clearly you're trying to solve the problem rather than score points, reflects on you every time.
+When an owner looks at a job that came in twenty percent over budget and you can point to three hundred RFIs, you look like you knew what you were doing you are the hero. The architect looks like they didn't. Construction is a customer service industry. That means taking care of owners, yes, but architects send referrals too, you should always be looking to build a better relatinship. How you write these things, how detailed, how professional, how clearly you're trying to solve the problem rather than score points, reflects on you every time.
 
-You need RFIs. You need to document everything. But be aware of what you're really doing when you send one. Being a clear and considered partner saves you money, saves the architect time, and saves the owner money downstream.
+You need RFIs. You need to document everything. But be aware of the implications when you send one. Being a clear and considered partner saves you money, saves the architect time, and saves the owner money downstream.
 
 That said, sometimes you have to burn someone down. RFIs can absolutely do that.
 
