@@ -26,9 +26,9 @@ Free submittal cover sheet. Propose materials and products with a form that look
 
 ## Daily log
 
-Fast, clean daily reports. Weather, crew, equipment, notes. Takes less than three minutes to fill out. Exports a weekly summary you can send straight to the owner.
+Fast, clean daily reports. Weather, crew, notes. Takes less than three minutes to fill out. Exports a daly summer for the office and a weekly summary you can send straight to the owner.
 
-*Coming soon.*
+[Start your free trial →](https://app.conwair.com)
 
 ## More on the way
 
