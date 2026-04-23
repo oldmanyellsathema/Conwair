@@ -8,6 +8,8 @@ permalink: /daily-log/
 
 A daily log built for the field. Weather, crew count, crew by trade, work completed, issues, inspections, deliveries, photos, and general notes. You fill it out once a day. It takes less than three minutes.
 
+at the end of the day send a report to your office, or your self.
+
 At the end of the week you send a branded PDF report straight to the owner. One button.
 
 [Start free — no credit card required](https://app.conwair.com)
@@ -16,9 +18,9 @@ At the end of the week you send a branded PDF report straight to the owner. One 
 
 ## What it does
 
-**Weather and conditions.** Auto-populated from your job address. Adjust it if it's wrong. Temperature and condition logged every day without thinking about it.
+**Weather and conditions.**  Just a cupple of taps and temperature and condition logged every day without thinking about it.
 
-**Crew.** Total headcount plus breakdown by trade. Electricians, masons, laborers — whoever's on site that day.
+**Crew.** Total headcount plus breakdown by trade. Electricians, masons, laborers, whoever's on site that day.
 
 **Work entries.** Log what got done, where, and by whom. Attach photos directly to the work item. Link issues back to specific areas of the job.
 
@@ -26,7 +28,7 @@ At the end of the week you send a branded PDF report straight to the owner. One 
 
 **Inspections and deliveries.** Check them off as they happen. Add notes. Keep the record clean.
 
-**Weekly report.** At the end of the week, generate a PDF that covers the whole week — conditions, crew, work, issues, photos — and email it directly to the owner from inside the app. It looks like something a real company sent.
+**Weekly report.** At the end of the week, generate a PDF that covers the whole week — conditions, crew, work, issues, photos — and email it directly to the owner from inside the app.
 
 ---
 
@@ -34,7 +36,7 @@ At the end of the week you send a branded PDF report straight to the owner. One 
 
 It is not a scheduling tool. If you need a schedule, use Microsoft Project. It handles that better than any daily log software will.
 
-It is not Procore. It does not cost what Procore costs, require what Procore requires, or try to do what Procore does. If you are running a $50M job with a full office staff, this is probably not your tool.
+It is not Procore or Fieldwire. It does not cost what those costs, require what they require, or try to do what they do. If you are running a $50M job with a full office staff, this is probably not your tool. Honestly, if you HAVE office staff, this is probably not for you. 
 
 It is not a time tracking app. It does not integrate with payroll. It does not replace your accounting software.
 
@@ -42,7 +44,7 @@ It is not a time tracking app. It does not integrate with payroll. It does not r
 
 ## Who it's for
 
-Small to mid-size GCs and subcontractors running real work with documentation that hasn't caught up. If you are managing jobs through email threads, text messages, and a notebook, this is the step up from that without the enterprise overhead.
+Small to mid-size GCs and subcontractors running real work with documentation that hasn't caught up. If you are managing jobs through email threads, text messages, and a notebook, this is the step up from that without the enterprise overhead. The goal is to keep your messiging consitent and clean without the burden of a huge staff.
 
 ---
 
