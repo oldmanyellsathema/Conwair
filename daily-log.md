@@ -44,7 +44,7 @@ It is not a time tracking app. It does not integrate with payroll. It does not r
 
 ## Who it's for
 
-Small to mid-size GCs and subcontractors running real work with documentation that hasn't caught up. If you are managing jobs through email threads, text messages, and a notebook, this is the step up from that without the enterprise overhead. The goal is to keep your messiging consitent and clean without the burden of a huge staff.
+Small to mid-size GCs and subcontractors running real work with documentation that hasn't caught up. If you are managing jobs through email threads, text messages, and a notebook, this is the step up from that without the enterprise overhead. The goal is to keep your messaging consitent and clean without the burden of a huge staff.
 
 ---
 
