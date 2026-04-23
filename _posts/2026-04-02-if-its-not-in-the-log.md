@@ -49,7 +49,7 @@ It's not just our money on the line. It's theirs.
 
 To us, it's easy to say, "We have to come back on Monday." But what the owner hears is, "This job's not done. For some reason. You can't have your house back yet. This is going to cost you more money."
 
-If we used our daily log, or even a weekly summary sent to the owner, when we say "We have to come back on Monday" they can read along with it. "It rained Tuesday and Wednesday, we lost two days but made up one with an added guy." All of a sudden it's not such a hard hit. Yes, the job got pushed to Monday, but now there's a reason. It shows we tried to make up time. It shows we're on their side.
+If we used our daily log, or even a [weekly summary sent to the owner](https://app.conwair.com), when we say "We have to come back on Monday" they can read along with it. "It rained Tuesday and Wednesday, we lost two days but made up one with an added guy." All of a sudden it's not such a hard hit. Yes, the job got pushed to Monday, but now there's a reason. It shows we tried to make up time. It shows we're on their side.
 
 ## So how do we actually fix this?
 
@@ -61,4 +61,4 @@ So how do we smooth it out?
 
 We constrain our reports to a few need to know categories. We make the entry take less than three minutes. And best of all, we format it so you can ship a weekly report to the owner that looks professional and put together.
 
-That's what we're building here at Conwair. More on that soon.
+That's what we built. [Try the Conwair daily log free.](https://app.conwair.com)
